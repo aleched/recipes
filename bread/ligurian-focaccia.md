@@ -2,6 +2,10 @@
 title: Ligurian Focaccia
 tags:
   - oven
+servings: "20"
+prep_time: 40 min
+cook_time: 40 min
+source: https://www.saltfatacidheat.com/fat/ligurian-focaccia
 ---
 
 ## Ingredients
