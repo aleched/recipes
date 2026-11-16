@@ -1,7 +1,6 @@
 ---
 title: Babka
 tags:
-  - bread
   - oven
 ---
 
